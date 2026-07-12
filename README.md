@@ -17,6 +17,22 @@ A React storefront for the [Ecommerce Platform backend](https://github.com/priya
 
 ---
 
+## Screenshots
+
+**Catalog** — live inventory pulled from the backend
+![Catalog](catalog.png)
+
+**Cart** — quantity controls and running total
+![Cart](cart.png)
+
+**Order History** — itemized receipt after checkout
+![Orders](orders.png)
+
+**Admin Console** — add new products to the catalog
+![Admin](admin.png)
+
+---
+
 ## Design
 
 A "stockroom ledger" aesthetic — deep indigo, mustard, and parchment tones, with a die-cut ticket component (used for prices, totals, and order status) that echoes the inventory/stock theme of the backend.
